@@ -1,7 +1,7 @@
 <h2>   Hola 👋, que tal, me llamo David Bernal</h2>
 <h3>  Analista técnico SIG │Admón. base de datos │ Desarrollador Back End jr </h3>
 
-![Analista técnico SIG │Admón. base de datos │ Desarrollador Back End jr](https://github.com/davidber0102/davidber0102/blob/main/ai-generated-8782744_1280c.jpg) <br>
+![Analista técnico SIG │Admón. base de datos │ Desarrollador Back End jr](https://github.com/davidber0102/davidber0102/blob/main/ai-generated-8782744_1280d.jpg) <br>
 
 A lo largo de mi carrera, he desarrollado una trayectoria profesional orientada a la evolución constante permitiéndome adaptación frente a nuevos desafíos. Mi enfoque se centra en identificar y ejecutar soluciones innovadoras para resolver problemas complejos. He tenido el privilegio de trabajar en equipos multidisciplinarios, dando como resultado enriquecedor de mi perspectiva y habilidades. Me considero un aprendiz permanente, siempre en busca de nuevos conocimientos y oportunidades para mejorar.
 
