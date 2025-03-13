@@ -30,3 +30,11 @@ Habilidades: SIG | SQL | HTML | CSS | JS | JAVA | SPRING | SPRING BOOT | POSTGRE
 davidber0102/davidber0102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## Licencia
+- **Proyecto con Licencia MIT**
+ ```bash
+   [MIT-LICENSE.txt](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
+   ```
+
+## Contacto
+**Si cuenta con una aportacion o dada, puede contacarme.**
